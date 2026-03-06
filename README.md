@@ -8,6 +8,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
