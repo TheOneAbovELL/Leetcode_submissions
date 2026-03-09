@@ -6,6 +6,7 @@ My LeetCode submitted solutions (code only).
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -29,6 +30,7 @@ My LeetCode submitted solutions (code only).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
