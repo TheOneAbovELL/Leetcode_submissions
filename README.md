@@ -53,6 +53,7 @@ My LeetCode submitted solutions (code only).
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -100,6 +101,7 @@ My LeetCode submitted solutions (code only).
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
@@ -154,6 +156,7 @@ My LeetCode submitted solutions (code only).
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
