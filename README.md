@@ -26,6 +26,7 @@ My LeetCode submitted solutions (code only).
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,10 +121,12 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +171,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +190,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
