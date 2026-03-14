@@ -9,6 +9,7 @@ My LeetCode submitted solutions (code only).
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -94,6 +95,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Sorting
