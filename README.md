@@ -25,6 +25,7 @@ My LeetCode submitted solutions (code only).
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -53,6 +54,7 @@ My LeetCode submitted solutions (code only).
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
@@ -72,6 +74,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 ## Dynamic Programming
@@ -106,6 +109,7 @@ My LeetCode submitted solutions (code only).
 | [0015-3sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0015-3sum/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
