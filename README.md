@@ -71,6 +71,7 @@ My LeetCode submitted solutions (code only).
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ My LeetCode submitted solutions (code only).
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ My LeetCode submitted solutions (code only).
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
