@@ -54,6 +54,7 @@ My LeetCode submitted solutions (code only).
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -77,6 +78,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -87,6 +89,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 ## Sliding Window
