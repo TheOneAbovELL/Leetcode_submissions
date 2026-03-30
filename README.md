@@ -18,6 +18,7 @@ My LeetCode submitted solutions (code only).
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 ## Greedy
@@ -112,6 +113,7 @@ My LeetCode submitted solutions (code only).
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
@@ -134,6 +136,7 @@ My LeetCode submitted solutions (code only).
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
