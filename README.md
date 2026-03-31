@@ -256,4 +256,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
