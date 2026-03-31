@@ -20,6 +20,7 @@ My LeetCode submitted solutions (code only).
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ My LeetCode submitted solutions (code only).
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [3474-lexicographically-smallest-generated-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
