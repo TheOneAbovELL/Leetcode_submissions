@@ -260,6 +260,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0177-nth-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
