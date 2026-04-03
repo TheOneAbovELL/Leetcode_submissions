@@ -62,6 +62,7 @@ My LeetCode submitted solutions (code only).
 | [0944-delete-columns-to-make-sorted](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -90,6 +91,7 @@ My LeetCode submitted solutions (code only).
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -219,6 +221,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0069-sqrtx/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
