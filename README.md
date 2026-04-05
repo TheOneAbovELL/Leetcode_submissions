@@ -10,6 +10,7 @@ My LeetCode submitted solutions (code only).
 | [0013-roman-to-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
@@ -48,6 +49,7 @@ My LeetCode submitted solutions (code only).
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -184,6 +186,7 @@ My LeetCode submitted solutions (code only).
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Enumeration
@@ -198,6 +201,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0069-sqrtx/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
