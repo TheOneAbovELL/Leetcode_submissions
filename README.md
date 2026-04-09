@@ -67,6 +67,7 @@ My LeetCode submitted solutions (code only).
 | [0015-3sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -208,6 +209,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0069-sqrtx/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
