@@ -101,6 +101,7 @@ My LeetCode submitted solutions (code only).
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ My LeetCode submitted solutions (code only).
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
