@@ -101,6 +101,7 @@ My LeetCode submitted solutions (code only).
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3379-transformed-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3379-transformed-array/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
@@ -145,6 +146,7 @@ My LeetCode submitted solutions (code only).
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
@@ -253,6 +255,7 @@ My LeetCode submitted solutions (code only).
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
