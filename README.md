@@ -110,6 +110,7 @@ My LeetCode submitted solutions (code only).
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ My LeetCode submitted solutions (code only).
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@ My LeetCode submitted solutions (code only).
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
