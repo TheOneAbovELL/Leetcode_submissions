@@ -240,6 +240,7 @@ My LeetCode submitted solutions (code only).
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
