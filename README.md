@@ -39,6 +39,7 @@ My LeetCode submitted solutions (code only).
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -88,6 +89,7 @@ My LeetCode submitted solutions (code only).
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
