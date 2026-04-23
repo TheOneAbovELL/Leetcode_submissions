@@ -98,6 +98,7 @@ My LeetCode submitted solutions (code only).
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -152,6 +153,7 @@ My LeetCode submitted solutions (code only).
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
@@ -304,6 +306,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
