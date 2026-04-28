@@ -94,6 +94,7 @@ My LeetCode submitted solutions (code only).
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
@@ -132,6 +133,7 @@ My LeetCode submitted solutions (code only).
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -184,6 +186,7 @@ My LeetCode submitted solutions (code only).
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
@@ -256,6 +259,7 @@ My LeetCode submitted solutions (code only).
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
