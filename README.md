@@ -302,6 +302,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
