@@ -245,6 +245,7 @@ My LeetCode submitted solutions (code only).
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -319,6 +320,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
