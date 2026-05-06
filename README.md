@@ -54,6 +54,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -323,6 +324,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
