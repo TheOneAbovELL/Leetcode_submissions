@@ -218,6 +218,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -378,11 +379,13 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
