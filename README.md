@@ -82,6 +82,7 @@ My LeetCode submitted solutions (code only).
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0289-game-of-life](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0289-game-of-life/) | Medium |
@@ -159,6 +160,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -376,6 +378,7 @@ My LeetCode submitted solutions (code only).
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
