@@ -120,6 +120,7 @@ My LeetCode submitted solutions (code only).
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -172,6 +173,7 @@ My LeetCode submitted solutions (code only).
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
