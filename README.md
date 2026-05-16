@@ -88,6 +88,7 @@ My LeetCode submitted solutions (code only).
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0289-game-of-life](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0289-game-of-life/) | Medium |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
@@ -211,6 +212,7 @@ My LeetCode submitted solutions (code only).
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
@@ -281,6 +283,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Enumeration
