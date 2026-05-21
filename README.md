@@ -35,6 +35,7 @@ My LeetCode submitted solutions (code only).
 | [2833-furthest-point-from-origin](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
@@ -133,6 +134,7 @@ My LeetCode submitted solutions (code only).
 | [2784-check-if-array-is-good](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -203,6 +205,7 @@ My LeetCode submitted solutions (code only).
 | [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
@@ -439,6 +442,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
