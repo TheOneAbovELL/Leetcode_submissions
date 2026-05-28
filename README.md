@@ -83,6 +83,7 @@ My LeetCode submitted solutions (code only).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0018-4sum/) | Medium |
@@ -201,6 +202,7 @@ My LeetCode submitted solutions (code only).
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
