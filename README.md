@@ -138,6 +138,7 @@ My LeetCode submitted solutions (code only).
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -430,6 +431,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
