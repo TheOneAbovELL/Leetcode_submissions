@@ -89,6 +89,7 @@ My LeetCode submitted solutions (code only).
 | [0001-two-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -251,6 +252,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
@@ -311,6 +313,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
