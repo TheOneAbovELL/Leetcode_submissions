@@ -281,6 +281,7 @@ My LeetCode submitted solutions (code only).
 | [0100-same-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -293,6 +294,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0100-same-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [1306-jump-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -476,6 +478,7 @@ My LeetCode submitted solutions (code only).
 | [0100-same-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
@@ -487,6 +490,7 @@ My LeetCode submitted solutions (code only).
 | [0100-same-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Trie
