@@ -16,6 +16,7 @@ My LeetCode submitted solutions (code only).
 | [0038-count-and-say](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
+| [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -99,6 +100,7 @@ My LeetCode submitted solutions (code only).
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0289-game-of-life](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0289-game-of-life/) | Medium |
@@ -172,6 +174,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
 | [0289-game-of-life](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0289-game-of-life/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -244,6 +247,7 @@ My LeetCode submitted solutions (code only).
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -276,6 +280,7 @@ My LeetCode submitted solutions (code only).
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0099-recover-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0100-same-tree/) | Easy |
