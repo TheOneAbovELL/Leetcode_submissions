@@ -98,6 +98,7 @@ My LeetCode submitted solutions (code only).
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
+| [0057-insert-interval](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
