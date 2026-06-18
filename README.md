@@ -371,6 +371,7 @@ My LeetCode submitted solutions (code only).
 | [0788-rotated-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
