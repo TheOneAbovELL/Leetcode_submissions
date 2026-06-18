@@ -8,6 +8,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
@@ -63,6 +64,7 @@ My LeetCode submitted solutions (code only).
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -197,6 +199,7 @@ My LeetCode submitted solutions (code only).
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
