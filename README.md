@@ -128,6 +128,7 @@ My LeetCode submitted solutions (code only).
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1861-rotating-the-box/) | Medium |
@@ -269,6 +270,7 @@ My LeetCode submitted solutions (code only).
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
@@ -379,6 +381,7 @@ My LeetCode submitted solutions (code only).
 | [1344-angle-between-hands-of-a-clock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1840-maximum-building-height](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
