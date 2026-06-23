@@ -1,13 +1,16 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-        vector<int> count(26,0);
-        for(char c:text) count[c-'a']++;
-        int b=count['b'-'a'];
-        int a=count['a'-'a'];
-        int l=count['l'-'a']/2;
-        int o=count['o'-'a']/2;
-        int n=count['n'-'a'];
+        int b=0,a=0,l=0,o=0,n=0;
+        for(char c:text){
+            if(c=='b') b++;
+            else if(c=='a') a++;
+            else if(c=='l') l++;
+            else if(c=='o') o++;
+            else if(c=='n') n++;
+        }
+        l/=2;
+        o/=2;
         return min({b,a,l,o,n});
     }
 };
