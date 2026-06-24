@@ -15,6 +15,7 @@ My LeetCode submitted solutions (code only).
 | [0022-generate-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
@@ -73,6 +74,7 @@ My LeetCode submitted solutions (code only).
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0289-game-of-life](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0289-game-of-life/) | Medium |
@@ -371,6 +373,7 @@ My LeetCode submitted solutions (code only).
 | [0009-palindrome-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0069-sqrtx/) | Easy |
