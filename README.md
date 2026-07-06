@@ -227,6 +227,7 @@ My LeetCode submitted solutions (code only).
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -417,6 +418,7 @@ My LeetCode submitted solutions (code only).
 | [0069-sqrtx](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0089-gray-code/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
@@ -553,6 +555,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
@@ -565,6 +568,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
@@ -589,6 +593,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
