@@ -56,6 +56,7 @@ My LeetCode submitted solutions (code only).
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -332,6 +333,7 @@ My LeetCode submitted solutions (code only).
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1306-jump-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1306-jump-game-iii/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
@@ -549,6 +551,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
@@ -564,6 +567,7 @@ My LeetCode submitted solutions (code only).
 | [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,6 +581,7 @@ My LeetCode submitted solutions (code only).
 | [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -596,6 +601,7 @@ My LeetCode submitted solutions (code only).
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
