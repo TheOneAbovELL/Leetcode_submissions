@@ -130,6 +130,7 @@ My LeetCode submitted solutions (code only).
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -257,6 +258,7 @@ My LeetCode submitted solutions (code only).
 | [0874-walking-robot-simulation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -346,6 +348,7 @@ My LeetCode submitted solutions (code only).
 | [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [1306-jump-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
