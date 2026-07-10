@@ -108,6 +108,7 @@ My LeetCode submitted solutions (code only).
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0057-insert-interval/) | Medium |
@@ -283,6 +284,7 @@ My LeetCode submitted solutions (code only).
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
