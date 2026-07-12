@@ -131,6 +131,7 @@ My LeetCode submitted solutions (code only).
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
@@ -259,6 +260,7 @@ My LeetCode submitted solutions (code only).
 | [0874-walking-robot-simulation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -305,6 +307,7 @@ My LeetCode submitted solutions (code only).
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1840-maximum-building-height](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
