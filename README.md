@@ -417,6 +417,7 @@ My LeetCode submitted solutions (code only).
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1291-sequential-digits/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
