@@ -107,6 +107,7 @@ My LeetCode submitted solutions (code only).
 | [0033-search-in-rotated-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0046-permutations/) | Medium |
@@ -202,6 +203,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0037-sudoku-solver/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
@@ -259,6 +261,7 @@ My LeetCode submitted solutions (code only).
 | [0013-roman-to-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0037-sudoku-solver/) | Hard |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -288,6 +291,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0046-permutations/) | Medium |
