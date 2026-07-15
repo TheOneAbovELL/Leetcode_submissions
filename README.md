@@ -462,6 +462,7 @@ My LeetCode submitted solutions (code only).
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -502,6 +503,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
