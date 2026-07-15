@@ -2,18 +2,12 @@ class Solution {
 public:
     int minimumCost(vector<int>& nums, int k) {
         const int MOD=1e9+7;
-        long long resources=k;
-        long long ops=0;
-        long long cost=0;
+        long long resources=k, ops=0, cost=0;
         for(int x:nums){
             if(resources<x){
-                long long need=x-resources;
-                long long add=(need+k-1)/k;
+                long long need=x-resources, add=(need+k-1)/k;
                 resources+=add*k;
-                long long first=ops+1;
-                long long last=ops+add;
-                long long sum=(first+last)%MOD;
-                long long cnt=add%MOD;
+                long long first=ops+1, last=ops+add, sum=(first+last)%MOD, cnt=add%MOD;
                 cost=(cost+sum*cnt%MOD*((MOD+1)/2))%MOD;
                 ops+=add;
             }
