@@ -95,6 +95,7 @@ My LeetCode submitted solutions (code only).
 | [3379-transformed-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3379-transformed-array/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ My LeetCode submitted solutions (code only).
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,6 +337,7 @@ My LeetCode submitted solutions (code only).
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +414,7 @@ My LeetCode submitted solutions (code only).
 | [2540-minimum-common-value](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +471,7 @@ My LeetCode submitted solutions (code only).
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -504,6 +509,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
