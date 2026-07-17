@@ -53,6 +53,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -112,6 +113,7 @@ My LeetCode submitted solutions (code only).
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0041-first-missing-positive/) | Hard |
+| [0045-jump-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0057-insert-interval/) | Medium |
@@ -236,6 +238,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0045-jump-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
