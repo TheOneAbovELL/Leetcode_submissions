@@ -184,6 +184,7 @@ My LeetCode submitted solutions (code only).
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3379-transformed-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3379-transformed-array/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
@@ -282,6 +283,7 @@ My LeetCode submitted solutions (code only).
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
@@ -465,6 +467,7 @@ My LeetCode submitted solutions (code only).
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -479,6 +482,7 @@ My LeetCode submitted solutions (code only).
 | [1189-maximum-number-of-balloons](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String Matching
@@ -500,6 +504,7 @@ My LeetCode submitted solutions (code only).
 | [2540-minimum-common-value](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -508,6 +513,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
@@ -553,6 +559,7 @@ My LeetCode submitted solutions (code only).
 | [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
@@ -644,4 +651,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
