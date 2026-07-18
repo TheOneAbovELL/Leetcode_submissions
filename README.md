@@ -159,6 +159,7 @@ My LeetCode submitted solutions (code only).
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
@@ -465,6 +466,7 @@ My LeetCode submitted solutions (code only).
 | [1840-maximum-building-height](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -517,6 +519,7 @@ My LeetCode submitted solutions (code only).
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
