@@ -199,6 +199,7 @@ My LeetCode submitted solutions (code only).
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
@@ -440,6 +441,7 @@ My LeetCode submitted solutions (code only).
 | [0089-gray-code](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0089-gray-code/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,6 +486,7 @@ My LeetCode submitted solutions (code only).
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
