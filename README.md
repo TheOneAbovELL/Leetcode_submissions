@@ -17,6 +17,7 @@ My LeetCode submitted solutions (code only).
 | [0038-count-and-say](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0091-decode-ways/) | Medium |
