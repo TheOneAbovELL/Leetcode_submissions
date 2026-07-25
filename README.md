@@ -126,6 +126,7 @@ My LeetCode submitted solutions (code only).
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
@@ -223,6 +224,7 @@ My LeetCode submitted solutions (code only).
 | [0037-sudoku-solver](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0037-sudoku-solver/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
 | [0289-game-of-life](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0289-game-of-life/) | Medium |
 | [1260-shift-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
@@ -522,6 +524,7 @@ My LeetCode submitted solutions (code only).
 | [0033-search-in-rotated-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
