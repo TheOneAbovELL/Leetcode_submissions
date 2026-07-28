@@ -51,6 +51,7 @@ My LeetCode submitted solutions (code only).
 | [3120-count-the-number-of-special-characters-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -358,6 +359,7 @@ My LeetCode submitted solutions (code only).
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
@@ -695,4 +697,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
