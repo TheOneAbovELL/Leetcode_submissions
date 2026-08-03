@@ -157,6 +157,7 @@ My LeetCode submitted solutions (code only).
 | [1331-rank-transform-of-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1406-stone-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -275,6 +276,7 @@ My LeetCode submitted solutions (code only).
 | [0877-stone-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0877-stone-game/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1406-stone-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -499,6 +501,7 @@ My LeetCode submitted solutions (code only).
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1840-maximum-building-height](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1840-maximum-building-height/) | Hard |
@@ -723,4 +726,5 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
