@@ -224,6 +224,7 @@ My LeetCode submitted solutions (code only).
 | [3637-trionic-array-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3637-trionic-array-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -322,6 +323,7 @@ My LeetCode submitted solutions (code only).
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
+| [3731-find-missing-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -381,6 +383,7 @@ My LeetCode submitted solutions (code only).
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3731-find-missing-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
