@@ -154,6 +154,7 @@ My LeetCode submitted solutions (code only).
 | [0877-stone-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0877-stone-game/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -280,6 +281,7 @@ My LeetCode submitted solutions (code only).
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
@@ -515,6 +517,7 @@ My LeetCode submitted solutions (code only).
 | [0788-rotated-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
@@ -628,6 +631,7 @@ My LeetCode submitted solutions (code only).
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -745,5 +749,14 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
