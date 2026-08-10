@@ -142,6 +142,7 @@ My LeetCode submitted solutions (code only).
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0289-game-of-life](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0289-game-of-life/) | Medium |
@@ -277,6 +278,7 @@ My LeetCode submitted solutions (code only).
 | [0091-decode-ways](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
