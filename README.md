@@ -772,4 +772,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
