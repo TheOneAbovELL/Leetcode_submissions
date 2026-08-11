@@ -24,6 +24,7 @@ My LeetCode submitted solutions (code only).
 | [0093-restore-ip-addresses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0125-valid-palindrome](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0796-rotate-string/) | Easy |
@@ -317,6 +318,7 @@ My LeetCode submitted solutions (code only).
 | [0037-sudoku-solver](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -374,6 +376,7 @@ My LeetCode submitted solutions (code only).
 | [0075-sort-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0147-insertion-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
@@ -495,6 +498,7 @@ My LeetCode submitted solutions (code only).
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0190-reverse-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
