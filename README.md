@@ -322,6 +322,7 @@ My LeetCode submitted solutions (code only).
 | [0036-valid-sudoku](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0041-first-missing-positive/) | Hard |
+| [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -486,6 +487,7 @@ My LeetCode submitted solutions (code only).
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0392-is-subsequence](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1861-rotating-the-box/) | Medium |
@@ -632,6 +634,7 @@ My LeetCode submitted solutions (code only).
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0147-insertion-sort-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -808,4 +811,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
