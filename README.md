@@ -98,6 +98,7 @@ My LeetCode submitted solutions (code only).
 | [0021-merge-two-sorted-lists](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0231-power-of-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0390-elimination-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -520,6 +521,7 @@ My LeetCode submitted solutions (code only).
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -553,6 +555,7 @@ My LeetCode submitted solutions (code only).
 | [0089-gray-code](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0231-power-of-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0390-elimination-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
