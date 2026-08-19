@@ -99,6 +99,7 @@ My LeetCode submitted solutions (code only).
 | [0024-swap-nodes-in-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0231-power-of-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0233-number-of-digit-one/) | Hard |
 | [0390-elimination-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -298,6 +299,7 @@ My LeetCode submitted solutions (code only).
 | [0097-interleaving-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0097-interleaving-string/) | Medium |
 | [0118-pascals-triangle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0233-number-of-digit-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0233-number-of-digit-one/) | Hard |
 | [0392-is-subsequence](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
@@ -556,6 +558,7 @@ My LeetCode submitted solutions (code only).
 | [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0233-number-of-digit-one/) | Hard |
 | [0390-elimination-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
