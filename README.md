@@ -704,6 +704,7 @@ My LeetCode submitted solutions (code only).
 | [0020-valid-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -720,6 +721,7 @@ My LeetCode submitted solutions (code only).
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -845,4 +847,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
