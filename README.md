@@ -341,6 +341,7 @@ My LeetCode submitted solutions (code only).
 | [0041-first-missing-positive](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -508,6 +509,7 @@ My LeetCode submitted solutions (code only).
 | [0086-partition-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -564,6 +566,7 @@ My LeetCode submitted solutions (code only).
 | [0089-gray-code](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0202-happy-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0233-number-of-digit-one/) | Hard |
 | [0390-elimination-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0390-elimination-game/) | Medium |
@@ -860,6 +863,7 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0202-happy-number/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
