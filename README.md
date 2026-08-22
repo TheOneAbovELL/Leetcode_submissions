@@ -98,6 +98,7 @@ My LeetCode submitted solutions (code only).
 | [0021-merge-two-sorted-lists](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0233-number-of-digit-one/) | Hard |
@@ -560,6 +561,7 @@ My LeetCode submitted solutions (code only).
 | [0013-roman-to-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0069-sqrtx/) | Easy |
