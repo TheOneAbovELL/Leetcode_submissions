@@ -27,6 +27,7 @@ My LeetCode submitted solutions (code only).
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0796-rotate-string/) | Easy |
@@ -349,6 +350,7 @@ My LeetCode submitted solutions (code only).
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -471,6 +473,7 @@ My LeetCode submitted solutions (code only).
 | [0101-symmetric-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [1306-jump-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -879,4 +882,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0433-minimum-genetic-mutation/) | Medium |
 <!---LeetCode Topics End-->
