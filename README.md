@@ -20,6 +20,7 @@ My LeetCode submitted solutions (code only).
 | [0065-valid-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
+| [0087-scramble-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0097-interleaving-string/) | Medium |
@@ -305,6 +306,7 @@ My LeetCode submitted solutions (code only).
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
+| [0087-scramble-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
