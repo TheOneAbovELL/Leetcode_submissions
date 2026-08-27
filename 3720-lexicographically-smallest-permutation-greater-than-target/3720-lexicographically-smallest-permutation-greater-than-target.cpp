@@ -1,36 +1,29 @@
 class Solution {
 public:
-    string lexGreaterPermutation(string s, string target) {
-        vector<int> count(26, 0);
-        for (char c : s) {
-            count[c - 'a']++;
-        }
-        string best_cand = "";
-        string prefix = "";
-        for (int i = 0; i < target.length(); i++) {
-            for (int c = target[i] - 'a' + 1; c < 26; c++) {
-                if (count[c] > 0) {
-                    string cand = prefix;
-                    cand += (char)(c + 'a');
-                    
-                    vector<int> temp = count;
-                    temp[c]--;
+    string lexGreaterPermutation(string s, string t) {
+        int cnt[26] = {0};
+        for (char c : s) cnt[c - 'a']++;
+        string ans = "", pre = "";
+        for (int i = 0; i < t.size(); i++) {
+            for (int c = t[i] - 'a' + 1; c < 26; c++) {
+                if (cnt[c] > 0) {
+                    string temp = pre + (char)(c + 'a');
+                    cnt[c]--; 
                     for (int j = 0; j < 26; j++) {
-                        if (temp[j] > 0) {
-                            cand.append(temp[j], (char)(j + 'a'));
-                        }
+                        temp.append(cnt[j], j + 'a');
                     }
-                    best_cand = cand;
-                    break; 
+                    ans = temp; 
+                    cnt[c]++;   
+                    break;      
                 }
             }
-            if (count[target[i] - 'a'] > 0) {
-                count[target[i] - 'a']--;
-                prefix += target[i];
+            if (cnt[t[i] - 'a'] > 0) {
+                pre += t[i];
+                cnt[t[i] - 'a']--;
             } else {
-                break;
+                break; 
             }
         }
-        return best_cand;
+        return ans;
     }
 };
