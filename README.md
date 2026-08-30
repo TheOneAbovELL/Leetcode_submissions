@@ -87,6 +87,7 @@ My LeetCode submitted solutions (code only).
 | [1927-sum-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -220,6 +221,7 @@ My LeetCode submitted solutions (code only).
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
