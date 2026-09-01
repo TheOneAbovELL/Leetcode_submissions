@@ -260,6 +260,7 @@ My LeetCode submitted solutions (code only).
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -304,6 +305,7 @@ My LeetCode submitted solutions (code only).
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -390,6 +392,7 @@ My LeetCode submitted solutions (code only).
 | [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3531-count-covered-buildings/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3583-count-special-triplets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3583-count-special-triplets/) | Medium |
 | [3606-coupon-code-validator](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3606-coupon-code-validator/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -500,6 +503,7 @@ My LeetCode submitted solutions (code only).
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -567,6 +571,7 @@ My LeetCode submitted solutions (code only).
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
