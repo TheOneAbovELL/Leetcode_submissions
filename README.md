@@ -24,6 +24,7 @@ My LeetCode submitted solutions (code only).
 | [0091-decode-ways](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
@@ -323,6 +324,7 @@ My LeetCode submitted solutions (code only).
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0233-number-of-digit-one](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0233-number-of-digit-one/) | Hard |
