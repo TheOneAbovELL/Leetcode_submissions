@@ -487,6 +487,7 @@ My LeetCode submitted solutions (code only).
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2092-find-all-people-with-secret/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -811,6 +812,7 @@ My LeetCode submitted solutions (code only).
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -825,6 +827,7 @@ My LeetCode submitted solutions (code only).
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
