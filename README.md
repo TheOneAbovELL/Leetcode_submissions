@@ -624,6 +624,7 @@ My LeetCode submitted solutions (code only).
 | [0486-predict-the-winner](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
@@ -846,6 +847,7 @@ My LeetCode submitted solutions (code only).
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
