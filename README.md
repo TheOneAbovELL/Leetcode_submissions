@@ -780,6 +780,7 @@ My LeetCode submitted solutions (code only).
 | [0020-valid-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -798,6 +799,7 @@ My LeetCode submitted solutions (code only).
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Divide and Conquer
