@@ -1,22 +1,22 @@
 class Solution {
 public:
     int minSumOfLengths(vector<int>& arr, int target) {
-        int n=arr.size(),inf=1e9;
-        vector<int> dp(n,inf);
+        int n=arr.size(),i=1e9;
+        vector<int> dp(n,i);
         unordered_map<int,int> mp;
         mp[0]=-1;
-        int sum=0,best=inf,res=inf;
+        int s=0,b=i,r=i;
         for(int i=0;i<n;i++){
-            sum+=arr[i];
-            if(mp.count(sum-target)){
-                int j=mp[sum-target];
+            s+=arr[i];
+            if(mp.count(s-target)){
+                int j=mp[s-target];
                 int len=i-j;
-                if(j>=0&&dp[j]!=inf) res=min(res,dp[j]+len);
-                best=min(best,len);
+                if(j>=0&&dp[j]!=i) r=min(r,dp[j]+len);
+                b=min(b,len);
             }
-            dp[i]=best;
-            mp[sum]=i;
+            dp[i]=b;
+            mp[s]=i;
         }
-        return res==inf?-1:res;
+        return r==i?-1:r;
     }
 };
