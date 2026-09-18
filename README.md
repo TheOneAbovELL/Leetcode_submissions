@@ -41,6 +41,7 @@ My LeetCode submitted solutions (code only).
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -82,6 +83,7 @@ My LeetCode submitted solutions (code only).
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -391,6 +393,7 @@ My LeetCode submitted solutions (code only).
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -455,6 +458,7 @@ My LeetCode submitted solutions (code only).
 | [1288-remove-covered-intervals](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1840-maximum-building-height](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
