@@ -639,6 +639,7 @@ My LeetCode submitted solutions (code only).
 | [1140-stone-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
@@ -863,6 +864,7 @@ My LeetCode submitted solutions (code only).
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
