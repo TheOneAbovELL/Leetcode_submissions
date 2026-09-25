@@ -4,10 +4,8 @@ public:
         dfs(expression);
         return vector<string>(s.begin(), s.end());
     }
-
 private:
     set<string> s;
-
     void dfs(string exp) {
         int j = exp.find_first_of('}');
         if (j == string::npos) {
