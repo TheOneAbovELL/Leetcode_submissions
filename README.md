@@ -36,6 +36,7 @@ My LeetCode submitted solutions (code only).
 | [0944-delete-columns-to-make-sorted](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -390,6 +391,7 @@ My LeetCode submitted solutions (code only).
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
@@ -441,6 +443,7 @@ My LeetCode submitted solutions (code only).
 | [0090-subsets-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
@@ -458,6 +461,7 @@ My LeetCode submitted solutions (code only).
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -520,6 +524,7 @@ My LeetCode submitted solutions (code only).
 | [0111-minimum-depth-of-binary-tree](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0112-path-sum/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1345-jump-game-iv/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -804,6 +809,7 @@ My LeetCode submitted solutions (code only).
 | [0232-implement-queue-using-stacks](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Database
