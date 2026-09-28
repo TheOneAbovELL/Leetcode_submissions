@@ -44,6 +44,7 @@ My LeetCode submitted solutions (code only).
 | [1513-number-of-substrings-with-only-1s](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -813,6 +814,7 @@ My LeetCode submitted solutions (code only).
 | [0234-palindrome-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Database
@@ -975,4 +977,8 @@ My LeetCode submitted solutions (code only).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0433-minimum-genetic-mutation/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
