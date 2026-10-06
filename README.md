@@ -33,6 +33,7 @@ My LeetCode submitted solutions (code only).
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -82,6 +83,7 @@ My LeetCode submitted solutions (code only).
 | [0045-jump-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0134-gas-station/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -813,6 +815,7 @@ My LeetCode submitted solutions (code only).
 | [0155-min-stack](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -982,6 +985,7 @@ My LeetCode submitted solutions (code only).
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
