@@ -101,6 +101,7 @@ My LeetCode submitted solutions (code only).
 | [2141-maximum-running-time-of-n-computers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -254,6 +255,7 @@ My LeetCode submitted solutions (code only).
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -416,6 +418,7 @@ My LeetCode submitted solutions (code only).
 | [2615-sum-of-distances](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -609,6 +612,7 @@ My LeetCode submitted solutions (code only).
 | [1009-complement-of-base-10-integer](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
