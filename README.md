@@ -258,6 +258,7 @@ My LeetCode submitted solutions (code only).
 | [2812-find-the-safest-path-in-a-grid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -420,6 +421,7 @@ My LeetCode submitted solutions (code only).
 | [2784-check-if-array-is-good](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -913,6 +915,7 @@ My LeetCode submitted solutions (code only).
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
@@ -999,4 +1002,8 @@ My LeetCode submitted solutions (code only).
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
