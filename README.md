@@ -301,6 +301,7 @@ My LeetCode submitted solutions (code only).
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
