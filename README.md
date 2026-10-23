@@ -290,6 +290,7 @@ My LeetCode submitted solutions (code only).
 | [3634-minimum-removals-to-balance-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3637-trionic-array-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3637-trionic-array-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -622,6 +623,7 @@ My LeetCode submitted solutions (code only).
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
