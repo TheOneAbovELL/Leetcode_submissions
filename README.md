@@ -169,6 +169,7 @@ My LeetCode submitted solutions (code only).
 | [0041-first-missing-positive](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -454,6 +455,7 @@ My LeetCode submitted solutions (code only).
 | [0039-combination-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0079-word-search/) | Medium |
@@ -472,6 +474,7 @@ My LeetCode submitted solutions (code only).
 | [0015-3sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0147-insertion-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
