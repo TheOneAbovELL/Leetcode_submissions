@@ -65,6 +65,7 @@ My LeetCode submitted solutions (code only).
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -382,6 +383,7 @@ My LeetCode submitted solutions (code only).
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -615,6 +617,7 @@ My LeetCode submitted solutions (code only).
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
