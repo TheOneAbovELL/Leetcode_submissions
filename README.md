@@ -28,6 +28,7 @@ My LeetCode submitted solutions (code only).
 | [0125-valid-palindrome](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0242-valid-anagram](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -412,6 +413,7 @@ My LeetCode submitted solutions (code only).
 | [0141-linked-list-cycle](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0202-happy-number/) | Easy |
+| [0242-valid-anagram](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -489,6 +491,7 @@ My LeetCode submitted solutions (code only).
 | [0075-sort-colors](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0147-insertion-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
