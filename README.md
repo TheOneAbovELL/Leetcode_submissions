@@ -191,6 +191,7 @@ My LeetCode submitted solutions (code only).
 | [0134-gas-station](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0289-game-of-life](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0289-game-of-life/) | Medium |
 | [0396-rotate-function](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0396-rotate-function/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -612,6 +613,7 @@ My LeetCode submitted solutions (code only).
 | [0151-reverse-words-in-a-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/TheOneAbovELL/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TheOneAbovELL/Leetcode-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
