@@ -286,6 +286,7 @@ My LeetCode submitted solutions (code only).
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3379-transformed-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3379-transformed-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
@@ -404,6 +405,7 @@ My LeetCode submitted solutions (code only).
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -661,6 +663,7 @@ My LeetCode submitted solutions (code only).
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TheOneAbovELL/Leetcode-/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3234-count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -726,6 +729,7 @@ My LeetCode submitted solutions (code only).
 | [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3433-count-mentions-per-user](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -796,6 +800,7 @@ My LeetCode submitted solutions (code only).
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
