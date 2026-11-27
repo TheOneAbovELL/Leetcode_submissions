@@ -118,6 +118,7 @@ My LeetCode submitted solutions (code only).
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +319,7 @@ My LeetCode submitted solutions (code only).
 | [3875-construct-uniform-parity-array-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +397,7 @@ My LeetCode submitted solutions (code only).
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/TheOneAbovELL/Leetcode-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
